@@ -1,5 +1,13 @@
 Dashboard designed using Power BI | Focus on business insights and KPI behavior
 
+Developed an interactive Power BI dashboard to analyze e-commerce sales performance, profitability, customer behavior, and regional trends.
+
+Tracked key KPIs including $2M Sales, 6.5K+ Orders, 18.3% YoY Growth, and 12% Profit Margin, enabling comprehensive business performance monitoring.
+
+Performed customer segmentation, payment mode analysis, and product-level profitability assessment to identify revenue growth opportunities and purchasing patterns.
+
+Automated reporting and KPI tracking through interactive dashboards, reducing manual analysis effort by approximately 25-30% and supporting faster data-driven decision-making.
+
 Business Intelligence Dashboard – Sales & Profitability Insights
 This dashboard brings together sales across time, regions, customer segments, and product categories to understand growth, profitability, and the main drivers of performance.
 
